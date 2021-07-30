@@ -1,0 +1,8 @@
+Integer_weights
+Number_of_genes: 24
+Sample_size: 200
+Sample_connectivity: 72
+Stepsize: 1000
+Modules: 4
+
+
